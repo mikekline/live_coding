@@ -1,0 +1,181 @@
+{
+
+  "messages": [
+
+    {
+
+      "user": "Roger",
+
+      "text": "Hi everybody!",
+
+      "messages": [
+
+        {
+
+          "user": "Ben",
+
+          "text": "Hi, nice to meet you!",
+
+          "messages": []
+
+        },
+
+        {
+
+          "user": "Johnny",
+
+          "text": "Hi there!",
+
+          "messages": [
+
+            {
+
+              "user": "Roger",
+
+              "text": "Thanks for inviting me!",
+
+              "messages": [{
+
+                "user": "Johnny",
+
+                "text": "np :)",
+
+                "messages": []
+
+              },
+
+              {
+
+                "user": "Banjo",
+
+                "text": "Johnny is fun to talk to.",
+
+                "messages": []
+
+              }
+
+              ]
+
+            },
+
+            {
+
+              "user": "Banjo",
+
+              "text": "Johnny has been a member here for a long time.",
+
+              "messages": []
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "name": "Grey",
+
+          "text": "Welcome new member!",
+
+          "messages": []
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "user": "Banjo",
+
+      "text": "Hey can you help me with the problem?",
+
+      "messages": [
+
+        {
+
+          "user": "Ben",
+
+          "text": "Sure, what’s the issue?",
+
+          "messages": [
+
+            {
+
+              "user": "Banjo",
+
+              "text": "I’m trying to play the guitar, but my fingers hurt!",
+
+              "messages": [
+
+                {
+
+                  "user": "Johnny",
+
+                  "text": "I’m sorry I don’t know much about it :S",
+
+                  "messages": [
+
+                    {
+
+                      "user": "Banjo",
+
+                      "text": "That’s cool, thanks anyways!",
+
+                      "messages": [
+
+                        {
+
+                          "user": "Larry",
+
+                          "text": "Johnny, you say that about everything XD"
+
+                        }
+
+                      ]
+
+                    }
+
+                  ]
+
+                }
+
+              ]
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "user": "Larry",
+
+          "text": "I can't help you, I'm very busy.",
+
+          "messages": [
+
+            {
+
+              "user": "Rodger",
+
+              "text": "I like the banjo!",
+
+              "messages": []
+
+            }
+
+          ]
+
+        }
+
+      ]
+
+    }
+
+  ]
+
+}
